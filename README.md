@@ -17,6 +17,10 @@ magic
 
 https://www.spigotmc.org/resources/magic.1056/
 
+Magic-Weapon-Pack
+
+
+
 #必要環境↓
 
 java 25 
