@@ -1,13 +1,13 @@
-注意点
+#注意点
 
 この操作はwindows11, Minecraft java edition想定です[統合版では動きません]
 
 この操作はlan解放、ポート開放不要です
 
-対応
+#対応
 minecraft 26.1.2 (java)
 
-必要ファイル↓
+#必要ファイル↓
 
 paper 26.1.2 
 
@@ -17,7 +17,7 @@ magic
 
 https://www.spigotmc.org/resources/magic.1056/
 
-必要環境↓
+#必要環境↓
 
 java 25 
 
@@ -27,16 +27,19 @@ JDK 25 - LTSタブを押し
 
 Temurin jdk-25.0.3+9, Windows 64 bit (.MSI)をダウンロード、インストールしてください
 
-前提操作
+#前提操作
 
 ダウンロードしたjavaをインストールしてください（してない場合）
 
 エクスプローラーを開き”表示”タブを押す出てきた画面の”表示”タブを押すファイル名拡張子にチェックを入れる
 
-導入手順
+#導入手順
 1. sever-setupフォルダを作る
+
 2. paper-26.1.2-72.jarをsever-setupフォルダに入れる(72は変わる可能性がある)
+
 3. 右クリック→新規作成→テキストドキュメントで新規テキストドキュメント.txtができる
+
 4. 新規テキストドキュメント.txtを開き
 
 @echo off
@@ -102,7 +105,9 @@ pause
 8. 起動後→設定→リソースパック→利用可能タブからMagic-Wepon-Pack-Resourcepackを選択中に移動
 
 #よくある失敗
+
 #サーバーが起動しないorサーバーに入れない
+
 eula.txtの中身のeula=falseをeula=trueに書き換えてない
 
 start.batの中身のミス
