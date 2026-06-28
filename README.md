@@ -69,7 +69,7 @@ pause
 
 14. pluginsフォルダを探す
 
-15. pluginsフォルダにmagicを入れる
+15. pluginsフォルダにmagic.jarを入れる
 
 16. start.batを起動する
 
@@ -81,15 +81,15 @@ pause
 
 20. magicフォルダ中にspell,wandがあることを確認
 
-21. spellを開きmagic-weapon-pack内のspellフォルダ内のymlファイルを入れる
+21. spellを開きmagic-weapon-pack内のspellフォルダ内のymlファイルを入れる（フォルダではなく.ymlファイルのみコピー）
 
-22. wandを開きmagic-weapon-pack内のwandフォルダ内のymlファイルを入れる
+22. wandを開きmagic-weapon-pack内のwandフォルダ内のymlファイルを入れる（フォルダではなく.ymlファイルのみコピー）
 
 23. minecraftをバージョン26.1.2で起動する
 
 24. マイクラのマルチプレイ→サーバーの追加、サーバーアドレスにlocalhostと入れる(自分のIPではなく"localhost"と入れる)
 
-25. サーバーコンソールでop マイクラのユーザー名 と入れる
+25. サーバーコンソールでop minecraftのユーザー名 と入れる
 
 26. サーバーを再起動する（コンソールでstopと入れstart.batを起動しなおす）
 
@@ -116,9 +116,9 @@ pause
 #確認
 □ java25を入れた
 
-□ Minecraftのバージョンが会っている
+□ Minecraftのバージョンが合っている
 
-□ paperのバージョンが会っている
+□ paperのバージョンが合っている
 
 □ eula=trueとなっている
 
@@ -148,4 +148,16 @@ localhost以外で入ろうとしている
 
 IDを間違えていないか
 
-コンソールでop ユーザー名をしているか
+コンソールでop minecraftのユーザー名 をしているか
+
+#質問の際は以下を教えてください
+
+Minecraftのバージョン
+
+paperのバージョン
+
+javaのバージョン
+
+表示されたエラー
+
+手順の何番目で詰まったか
