@@ -54,49 +54,49 @@ pause
 
 と入れて保存する
 
-5. 新規テキストドキュメント.txtの名前をstart.batに変更する
+6. 新規テキストドキュメント.txtの名前をstart.batに変更する
 
-6. 警告は許可
+7. 警告は許可
 
-7. start.batを起動する
+8. start.batを起動する
 
-8. 警告は許可
+9. 警告は許可
 
-9. このアプリがプライベートネットワークで通信することを許可しますかの様な警告は許可を押す
+10. このアプリがプライベートネットワークで通信することを許可しますかの様な警告は許可を押す
 
-10. Failed to load eula.txtもしくはYou need to agree to the EULA in order to run the server. Go to eula.txt for more info.とコンソールに出てきたらコンソール（黒い画面）を閉じる
+11. Failed to load eula.txtもしくはYou need to agree to the EULA in order to run the server. Go to eula.txt for more info.とコンソールに出てきたらコンソール（黒い画面）を閉じる
 
-11. eula.txtを開き
+12. eula.txtを開き
 
-12. eula=falseをeula=trueに書き換え保存する
+13. eula=falseをeula=trueに書き換え保存する
 
-13. pluginsフォルダを探す
+14. pluginsフォルダを探す
 
-14. pluginsフォルダにmagicを入れる
+15. pluginsフォルダにmagicを入れる
 
-15. start.batを起動する
+16. start.batを起動する
 
-16. サーバーコンソールでstopと入れサーバーを終了
+17. サーバーコンソールでstopと入れサーバーを終了
 
-17. magic-weapon-pack.zipを解凍
+18. magic-weapon-pack.zipを解凍
 
-18. pluginsフォルダを開いてmagicフォルダを探し開く
+19. pluginsフォルダを開いてmagicフォルダを探し開く
 
-19. magicフォルダ中にspell,wandがあることを確認
+20. magicフォルダ中にspell,wandがあることを確認
 
-20. spellを開きmagic-weapon-pack内のspellフォルダ内のymlファイルを入れる
+21. spellを開きmagic-weapon-pack内のspellフォルダ内のymlファイルを入れる
 
-21. wandを開きmagic-weapon-pack内のwandフォルダ内のymlファイルを入れる
+22. wandを開きmagic-weapon-pack内のwandフォルダ内のymlファイルを入れる
 
-22. minecraftをバージョン26.1.2で起動する
+23. minecraftをバージョン26.1.2で起動する
 
-23. マイクラのマルチプレイ→サーバーの追加、サーバーアドレスにlocalhostと入れる(自分のIPではなく"localhost"と入れる)
+24. マイクラのマルチプレイ→サーバーの追加、サーバーアドレスにlocalhostと入れる(自分のIPではなく"localhost"と入れる)
 
-24. サーバーコンソールでop マイクラのユーザー名 と入れる
+25. サーバーコンソールでop マイクラのユーザー名 と入れる
 
-25. サーバーを再起動する（コンソールでstopと入れstart.batを起動しなおす）
+26. サーバーを再起動する（コンソールでstopと入れstart.batを起動しなおす）
 
-26. /mgive 武器idと入れると武器を入手可能（武器IDはweapons.mdに記載）
+27. /mgive 武器idと入れると武器を入手可能（武器IDはweapons.mdに記載）
 
 #リソースパックの導入（見た目の変更）
 
