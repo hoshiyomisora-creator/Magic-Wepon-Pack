@@ -94,7 +94,7 @@ pause
 
 25. サーバーを再起動する（コンソールでstopと入れstart.batを起動しなおす）
 
-26. /mgive 武器idと入れると武器を入手可能（武器IDは説明書に記載）
+26. /mgive 武器idと入れると武器を入手可能（武器IDはweapons.mdに記載）
 
 #リソースパックの導入（見た目の変更）
 
@@ -116,8 +116,8 @@ pause
 
 #確認
 □ java25を入れた
-□ マインクラフトージョンがあっている
-□ paperのバージョンがあっている
+□ マインクラフトージョンが会っている
+□ paperのバージョンが会っている
 □ eula=trueとなっている
 □ start.batがstart.bat.txtになってないかの確認
 □ サーバーアドレスにlocalhostと入れる
@@ -125,6 +125,8 @@ pause
 #よくある失敗
 
 #サーバーが起動しないorサーバーに入れない
+
+magic.jar paper.jarを解凍している(してはいけない)
 
 eula.txtの中身のeula=falseをeula=trueに書き換えてない
 
