@@ -19,7 +19,7 @@ https://www.spigotmc.org/resources/magic.1056/
 
 Magic-Weapon-Pack
 
-
+https://github.com/hoshiyomisora-creator/Magic-Weapon-Pack/tags
 
 #必要環境↓
 
